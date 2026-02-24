@@ -1,0 +1,9 @@
+opencv-python
+deepface
+tf-keras
+
+boto3
+python-dotenv
+
+numpy
+mediapipe
