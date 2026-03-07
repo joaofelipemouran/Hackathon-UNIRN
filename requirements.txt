@@ -1,9 +1,11 @@
-opencv-python
+# Bibliotecas de Visão Computacional e IA
+opencv-python-headless
 deepface
 tf-keras
+tensorflow==2.15.0
 
+# Integração com AWS e Ambiente
 boto3
 python-dotenv
 
-numpy
-mediapipe
+numpy<2.0.0
